@@ -2,7 +2,7 @@
 
 A Xcode theme inspired by Seattles' weather  
 
-![Amr Seattle XCode Theme](https://github.com/amarkanala/Amr-Seattle-XCode-Theme/blob/master/theme.png?raw=true "Amr Seattle XCode Theme Screenshot")
+![Amr Seattle XCode Theme](https://github.com/amarkanala/Amr-Seattle-XCode-Theme/blob/main/theme.png?raw=true") Amr Seattle XCode Theme Screenshot 
 
 ## Installation
 
